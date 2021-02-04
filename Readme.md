@@ -18,5 +18,5 @@ OK  | Exception
 
 ### For the Postman Collection please Refer,
 ```
-https://github.com/eremcan/carfactory/blob/master/CarFactoryCollection.postman_collection.json
+https://raw.githubusercontent.com/eremcan/carfactory/master/CarFactoryCollection.postman_collection.json
 ```
