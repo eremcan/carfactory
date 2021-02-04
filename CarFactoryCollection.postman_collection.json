@@ -1,0 +1,33 @@
+{
+	"variables": [],
+	"info": {
+		"name": "CarFactoryCollection",
+		"_postman_id": "7450e3a9-c4c5-8524-f87f-10f5ca45c0dc",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "localhost:8080/v1/car/sedan",
+			"request": {
+				"url": "localhost:8080/v1/car/sedan",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/v1/car/Cabrio",
+			"request": {
+				"url": "localhost:8080/v1/car/Cabrio",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
